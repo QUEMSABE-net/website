@@ -1,0 +1,21 @@
+titulo: quem sabe
+paginas: inicio, curiosidades, significados, sobre nós
+
+inicio:
+posts recentes;
+lançamentos musicais;
+
+curiosidades:
+curiosidades recentes;
+
+significados:
+significados recentes;
+
+sobre nós:
+informações sobre o site e etc;
+
+sua conta:
+nome de usuário;
+email;
+favoritos;
+ 
